@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "./static/css/main.9e9c025e.chunk.css",
+    "main.js": "./static/js/main.ba7f1b6f.chunk.js",
+    "main.js.map": "./static/js/main.ba7f1b6f.chunk.js.map",
+    "runtime-main.js": "./static/js/runtime-main.13db040e.js",
+    "runtime-main.js.map": "./static/js/runtime-main.13db040e.js.map",
+    "static/js/2.db2016b7.chunk.js": "./static/js/2.db2016b7.chunk.js",
+    "static/js/2.db2016b7.chunk.js.map": "./static/js/2.db2016b7.chunk.js.map",
+    "static/js/3.f7c37214.chunk.js": "./static/js/3.f7c37214.chunk.js",
+    "static/js/3.f7c37214.chunk.js.map": "./static/js/3.f7c37214.chunk.js.map",
+    "index.html": "./index.html",
+    "static/css/main.9e9c025e.chunk.css.map": "./static/css/main.9e9c025e.chunk.css.map",
+    "static/js/2.db2016b7.chunk.js.LICENSE.txt": "./static/js/2.db2016b7.chunk.js.LICENSE.txt",
+    "static/media/index.css": "./static/media/Outfit-VariableFont_wght.7d17abd5.ttf",
+    "static/media/PaginaLogin.css": "./static/media/login.2b12541e.jpg",
+    "static/media/marca.a0d0b739.png": "./static/media/marca.a0d0b739.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.13db040e.js",
+    "static/js/2.db2016b7.chunk.js",
+    "static/css/main.9e9c025e.chunk.css",
+    "static/js/main.ba7f1b6f.chunk.js"
+  ]
+}
